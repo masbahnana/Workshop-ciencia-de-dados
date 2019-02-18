@@ -23,7 +23,7 @@ Rode o Download na linha de comando conforme abaixo:
 Você será solicitado a dizer sim. Depois deve seguir todas as instruções onde o Python anaconda será instalado.
 Abra um novo terminal e verifique os pontos padrão do python para 3.6.4 digitando:
 
-    "python 3"
+    "python3"
 
 Obs: caso tu estejas instalando outra versão do python, será necessário alterá-la no comando de instalação.
 
